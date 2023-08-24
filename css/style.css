@@ -1,0 +1,48 @@
+/* Set the main background color to light green */
+body {
+    background-color: lightgreen;
+  }
+  
+  /* Navbar background color and link colors */
+  .navbar {
+    background-color: lightgreen;
+  }
+  
+  .navbar-nav .nav-link {
+    color: white; /* Change link text color to white */
+  }
+  
+  /* Jumbotron styles */
+  .jumbotron {
+    background-color: lightgreen;
+    color: white;
+  }
+  
+  /* Button styles */
+  .btn-primary {
+    background-color: darkgreen;
+    border-color: darkgreen;
+  }
+  
+  /* Card styles */
+  .card {
+    border: none;
+  }
+  
+  /* Card text color */
+  .card-text {
+    color: darkgreen;
+  }
+  
+  /* Card button styles */
+  .card-body .btn-outline-secondary {
+    color: darkgreen;
+    border-color: darkgreen;
+  }
+  
+  /* Footer background color */
+  .footer {
+    background-color: lightgreen;
+    color: white;
+  }
+  
